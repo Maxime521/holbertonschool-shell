@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -dl my_dir
+mkdir -m 751 dir_holberton
