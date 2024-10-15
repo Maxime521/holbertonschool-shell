@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /tmp/my_first_directory/betty > /dev/null 2>&1 ; echo $?
+mv /tmp/betty tmp/my_first_directory/betty
